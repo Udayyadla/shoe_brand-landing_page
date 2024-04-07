@@ -1,4 +1,3 @@
-# shoe_brand-landing_page
 # Show Brand Landing Page - React.js Challenge
 
 This project is the result of completing Challenge 1 in the React Challenges series. The task was to develop a landing page for a show brand using React.js, based on a design provided in a Figma file. Here's a summary of the development process:
@@ -10,7 +9,7 @@ This project is the result of completing Challenge 1 in the React Challenges ser
    - Analyzed the layout, components, colors, and typography used in the design.
 
 2. **Project Setup**
-   - Initialized a new React.js project using `create vite@latest`
+   - Initialized a new React.js project using `npm create vite@latest`
 
 3. **Integration with Figma Design**
    - Ensured that the landing page closely matches the design provided in the Figma file.
