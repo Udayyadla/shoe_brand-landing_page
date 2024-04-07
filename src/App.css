@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  width: 333px;
+}
+.Login {
+  width: 75px;
+  height: 31px;
+  padding: 6px 16px 6px 16px;
+  opacity: 0px;
+  background-color: #d01c28;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
+  color: #ffffff;
+  margin-right: 79px;
+  border: 1px;
+}
+.logo{
+  margin-left: 85px;
+}
+.section-1 {
+  width: 595px;
+  height: 613px;
+  display: flex column;
+  gap: 36px;
+}
+h1 {
+  width: 595px;
+  height: 306px;
+  font-family: "Poppins";
+  font-size: 108px;
+  font-weight: 800;
+  line-height: 102px;
+  text-align: left;
+  color: #000000;
+}
+p {
+  width: 404px;
+  height: 91px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: #5a5959;
+}
+.btn-group {
+  width: 331px;
+  display: flex;
+  font-family: "Poppins";
+  height: 41px;
+  gap: 40px;
+}
+.btn-primary {
+  width: 150px;
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 24px;
+  opacity: 0px;
+  background-color: #d01c28;
+  color: #ffffff;
+  border: 1px;
+}
+.btn-secondary {
+  width: 141px;
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 24px;
+  color: #5a5959;
+  background-color: #ffffff;
+}
+.middle-container {
+  display: flex;
+  margin-left: 157px;
+}
+#shoe_img{
+  padding: 7.5rem 0;
+}
+#shopping-logos{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+
+
+}
+.h5{
+  font-family: "Inter";
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+color: #5A5959;
+;
+
+}
+h1{
+  margin-bottom: 36px;
+}
